@@ -1,3 +1,7 @@
+
+echo "请输入sudo密码（仅需输入一次）"
+sudo echo "权限验证成功，开始执行脚本..."
+
 if [ ! $1 ]; then  
    echo 'ERROR: Need to apply loop param'    
    exit  

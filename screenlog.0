@@ -268,3 +268,289 @@ To github.com:CoderWeiJ/git-auto-commit.git
    7ae64f7..fb0fa77  master -> master
 loop.sh: 7: Already: not found
 [0;1;31mFailed to set time: Automatic time synchronization is enabled[0m
+There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=<remote>/<branch> master
+
+[1;31m==== AUTHENTICATING FOR org.freedesktop.timedate1.set-time ====
+[0mAuthentication is required to set the system time.
+Authenticating as: Ubuntu (ubuntu)
+Password: [0;1;31mFailed to set time: Connection timed out[0m
+polkit-agent-helper-1: pam_authenticate failed: Authentication failure
+remote: Enumerating objects: 104, done.[K
+remote: Counting objects:   1% (1/96)[Kremote: Counting objects:   2% (2/96)[Kremote: Counting objects:   3% (3/96)[Kremote: Counting objects:   4% (4/96)[Kremote: Counting objects:   5% (5/96)[Kremote: Counting objects:   6% (6/96)[Kremote: Counting objects:   7% (7/96)[Kremote: Counting objects:   8% (8/96)[Kremote: Counting objects:   9% (9/96)[Kremote: Counting objects:  10% (10/96)[Kremote: Counting objects:  11% (11/96)[Kremote: Counting objects:  12% (12/96)[Kremote: Counting objects:  13% (13/96)[Kremote: Counting objects:  14% (14/96)[Kremote: Counting objects:  15% (15/96)[Kremote: Counting objects:  16% (16/96)[Kremote: Counting objects:  17% (17/96)[Kremote: Counting objects:  18% (18/96)[Kremote: Counting objects:  19% (19/96)[Kremote: Counting objects:  20% (20/96)[Kremote: Counting objects:  21% (21/96)[Kremote: Counting objects:  22% (22/96)[Kremote: Counting objects:  23% (23/96)[Kremote: Counting objects:  25% (24/96)[Kremote: Counting objects:  26% (25/96)[Kremote: Counting objects:  27% (26/96)[Kremote: Counting objects:  28% (27/96)[Kremote: Counting objects:  29% (28/96)[Kremote: Counting objects:  30% (29/96)[Kremote: Counting objects:  31% (30/96)[Kremote: Counting objects:  32% (31/96)[Kremote: Counting objects:  33% (32/96)[Kremote: Counting objects:  34% (33/96)[Kremote: Counting objects:  35% (34/96)[Kremote: Counting objects:  36% (35/96)[Kremote: Counting objects:  37% (36/96)[Kremote: Counting objects:  38% (37/96)[Kremote: Counting objects:  39% (38/96)[Kremote: Counting objects:  40% (39/96)[Kremote: Counting objects:  41% (40/96)[Kremote: Counting objects:  42% (41/96)[Kremote: Counting objects:  43% (42/96)[Kremote: Counting objects:  44% (43/96)[Kremote: Counting objects:  45% (44/96)[Kremote: Counting objects:  46% (45/96)[Kremote: Counting objects:  47% (46/96)[Kremote: Counting objects:  48% (47/96)[Kremote: Counting objects:  50% (48/96)[Kremote: Counting objects:  51% (49/96)[Kremote: Counting objects:  52% (50/96)[Kremote: Counting objects:  53% (51/96)[Kremote: Counting objects:  54% (52/96)[Kremote: Counting objects:  55% (53/96)[Kremote: Counting objects:  56% (54/96)[Kremote: Counting objects:  57% (55/96)[Kremote: Counting objects:  58% (56/96)[Kremote: Counting objects:  59% (57/96)[Kremote: Counting objects:  60% (58/96)[Kremote: Counting objects:  61% (59/96)[Kremote: Counting objects:  62% (60/96)[Kremote: Counting objects:  63% (61/96)[Kremote: Counting objects:  64% (62/96)[Kremote: Counting objects:  65% (63/96)[Kremote: Counting objects:  66% (64/96)[Kremote: Counting objects:  67% (65/96)[Kremote: Counting objects:  68% (66/96)[Kremote: Counting objects:  69% (67/96)[Kremote: Counting objects:  70% (68/96)[Kremote: Counting objects:  71% (69/96)[Kremote: Counting objects:  72% (70/96)[Kremote: Counting objects:  73% (71/96)[Kremote: Counting objects:  75% (72/96)[Kremote: Counting objects:  76% (73/96)[Kremote: Counting objects:  77% (74/96)[Kremote: Counting objects:  78% (75/96)[Kremote: Counting objects:  79% (76/96)[Kremote: Counting objects:  80% (77/96)[Kremote: Counting objects:  81% (78/96)[Kremote: Counting objects:  82% (79/96)[Kremote: Counting objects:  83% (80/96)[Kremote: Counting objects:  84% (81/96)[Kremote: Counting objects:  85% (82/96)[Kremote: Counting objects:  86% (83/96)[Kremote: Counting objects:  87% (84/96)[Kremote: Counting objects:  88% (85/96)[Kremote: Counting objects:  89% (86/96)[Kremote: Counting objects:  90% (87/96)[Kremote: Counting objects:  91% (88/96)[Kremote: Counting objects:  92% (89/96)[Kremote: Counting objects:  93% (90/96)[Kremote: Counting objects:  94% (91/96)[Kremote: Counting objects:  95% (92/96)[Kremote: Counting objects:  96% (93/96)[Kremote: Counting objects:  97% (94/96)[Kremote: Counting objects:  98% (95/96)[Kremote: Counting objects: 100% (96/96)[Kremote: Counting objects: 100% (96/96), done.[K
+remote: Compressing objects:   1% (1/65)[Kremote: Compressing objects:   3% (2/65)[Kremote: Compressing objects:   4% (3/65)[Kremote: Compressing objects:   6% (4/65)[Kremote: Compressing objects:   7% (5/65)[Kremote: Compressing objects:   9% (6/65)[Kremote: Compressing objects:  10% (7/65)[Kremote: Compressing objects:  12% (8/65)[Kremote: Compressing objects:  13% (9/65)[Kremote: Compressing objects:  15% (10/65)[Kremote: Compressing objects:  16% (11/65)[Kremote: Compressing objects:  18% (12/65)[Kremote: Compressing objects:  20% (13/65)[Kremote: Compressing objects:  21% (14/65)[Kremote: Compressing objects:  23% (15/65)[Kremote: Compressing objects:  24% (16/65)[Kremote: Compressing objects:  26% (17/65)[Kremote: Compressing objects:  27% (18/65)[Kremote: Compressing objects:  29% (19/65)[Kremote: Compressing objects:  30% (20/65)[Kremote: Compressing objects:  32% (21/65)[Kremote: Compressing objects:  33% (22/65)[Kremote: Compressing objects:  35% (23/65)[Kremote: Compressing objects:  36% (24/65)[Kremote: Compressing objects:  38% (25/65)[Kremote: Compressing objects:  40% (26/65)[Kremote: Compressing objects:  41% (27/65)[Kremote: Compressing objects:  43% (28/65)[Kremote: Compressing objects:  44% (29/65)[Kremote: Compressing objects:  46% (30/65)[Kremote: Compressing objects:  47% (31/65)[Kremote: Compressing objects:  49% (32/65)[Kremote: Compressing objects:  50% (33/65)[Kremote: Compressing objects:  52% (34/65)[Kremote: Compressing objects:  53% (35/65)[Kremote: Compressing objects:  55% (36/65)[Kremote: Compressing objects:  56% (37/65)[Kremote: Compressing objects:  58% (38/65)[Kremote: Compressing objects:  60% (39/65)[Kremote: Compressing objects:  61% (40/65)[Kremote: Compressing objects:  63% (41/65)[Kremote: Compressing objects:  64% (42/65)[Kremote: Compressing objects:  66% (43/65)[Kremote: Compressing objects:  67% (44/65)[Kremote: Compressing objects:  69% (45/65)[Kremote: Compressing objects:  70% (46/65)[Kremote: Compressing objects:  72% (47/65)[Kremote: Compressing objects:  73% (48/65)[Kremote: Compressing objects:  75% (49/65)[Kremote: Compressing objects:  76% (50/65)[Kremote: Compressing objects:  78% (51/65)[Kremote: Compressing objects:  80% (52/65)[Kremote: Compressing objects:  81% (53/65)[Kremote: Compressing objects:  83% (54/65)[Kremote: Compressing objects:  84% (55/65)[Kremote: Compressing objects:  86% (56/65)[Kremote: Compressing objects:  87% (57/65)[Kremote: Compressing objects:  89% (58/65)[Kremote: Compressing objects:  90% (59/65)[Kremote: Compressing objects:  92% (60/65)[Kremote: Compressing objects:  93% (61/65)[Kremote: Compressing objects:  95% (62/65)[Kremote: Compressing objects:  96% (63/65)[Kremote: Compressing objects:  98% (64/65)[Kremote: Compressing objects: 100% (65/65)[Kremote: Compressing objects: 100% (65/65), done.[K
+Receiving objects:   0% (1/104)Receiving objects:   1% (2/104)Receiving objects:   2% (3/104)Receiving objects:   3% (4/104)Receiving objects:   4% (5/104)remote: Total 104 (delta 60), reused 64 (delta 30), pack-reused 8 (from 1)[K
+Receiving objects:   5% (6/104)Receiving objects:   6% (7/104)Receiving objects:   7% (8/104)Receiving objects:   8% (9/104)Receiving objects:   9% (10/104)Receiving objects:  10% (11/104)Receiving objects:  11% (12/104)Receiving objects:  12% (13/104)Receiving objects:  13% (14/104)Receiving objects:  14% (15/104)Receiving objects:  15% (16/104)Receiving objects:  16% (17/104)Receiving objects:  17% (18/104)Receiving objects:  18% (19/104)Receiving objects:  19% (20/104)Receiving objects:  20% (21/104)Receiving objects:  21% (22/104)Receiving objects:  22% (23/104)Receiving objects:  23% (24/104)Receiving objects:  24% (25/104)Receiving objects:  25% (26/104)Receiving objects:  26% (28/104)Receiving objects:  27% (29/104)Receiving objects:  28% (30/104)Receiving objects:  29% (31/104)Receiving objects:  30% (32/104)Receiving objects:  31% (33/104)Receiving objects:  32% (34/104)Receiving objects:  33% (35/104)Receiving objects:  34% (36/104)Receiving objects:  35% (37/104)Receiving objects:  36% (38/104)Receiving objects:  37% (39/104)Receiving objects:  38% (40/104)Receiving objects:  39% (41/104)Receiving objects:  40% (42/104)Receiving objects:  41% (43/104)Receiving objects:  42% (44/104)Receiving objects:  43% (45/104)Receiving objects:  44% (46/104)Receiving objects:  45% (47/104)Receiving objects:  46% (48/104)Receiving objects:  47% (49/104)Receiving objects:  48% (50/104)Receiving objects:  49% (51/104)Receiving objects:  50% (52/104)Receiving objects:  51% (54/104)Receiving objects:  52% (55/104)Receiving objects:  53% (56/104)Receiving objects:  54% (57/104)Receiving objects:  55% (58/104)Receiving objects:  56% (59/104)Receiving objects:  57% (60/104)Receiving objects:  58% (61/104)Receiving objects:  59% (62/104)Receiving objects:  60% (63/104)Receiving objects:  61% (64/104)Receiving objects:  62% (65/104)Receiving objects:  63% (66/104)Receiving objects:  64% (67/104)Receiving objects:  65% (68/104)Receiving objects:  66% (69/104)Receiving objects:  67% (70/104)Receiving objects:  68% (71/104)Receiving objects:  69% (72/104)Receiving objects:  70% (73/104)Receiving objects:  71% (74/104)Receiving objects:  72% (75/104)Receiving objects:  73% (76/104)Receiving objects:  74% (77/104)Receiving objects:  75% (78/104)Receiving objects:  76% (80/104)Receiving objects:  77% (81/104)Receiving objects:  78% (82/104)Receiving objects:  79% (83/104)Receiving objects:  80% (84/104)Receiving objects:  81% (85/104)Receiving objects:  82% (86/104)Receiving objects:  83% (87/104)Receiving objects:  84% (88/104)Receiving objects:  85% (89/104)Receiving objects:  86% (90/104)Receiving objects:  87% (91/104)Receiving objects:  88% (92/104)Receiving objects:  89% (93/104)Receiving objects:  90% (94/104)Receiving objects:  91% (95/104)Receiving objects:  92% (96/104)Receiving objects:  93% (97/104)Receiving objects:  94% (98/104)Receiving objects:  95% (99/104)Receiving objects:  96% (100/104)Receiving objects:  97% (101/104)Receiving objects:  98% (102/104)Receiving objects:  99% (103/104)Receiving objects: 100% (104/104)Receiving objects: 100% (104/104), 148.22 KiB | 371.00 KiB/s, done.
+Resolving deltas:   0% (0/60)Resolving deltas:   1% (1/60)Resolving deltas:   3% (2/60)Resolving deltas:   5% (3/60)Resolving deltas:   6% (4/60)Resolving deltas:   8% (5/60)Resolving deltas:  10% (6/60)Resolving deltas:  11% (7/60)Resolving deltas:  13% (8/60)Resolving deltas:  15% (9/60)Resolving deltas:  16% (10/60)Resolving deltas:  18% (11/60)Resolving deltas:  20% (12/60)Resolving deltas:  21% (13/60)Resolving deltas:  23% (14/60)Resolving deltas:  25% (15/60)Resolving deltas:  26% (16/60)Resolving deltas:  28% (17/60)Resolving deltas:  30% (18/60)Resolving deltas:  31% (19/60)Resolving deltas:  33% (20/60)Resolving deltas:  35% (21/60)Resolving deltas:  36% (22/60)Resolving deltas:  38% (23/60)Resolving deltas:  40% (24/60)Resolving deltas:  41% (25/60)Resolving deltas:  43% (26/60)Resolving deltas:  45% (27/60)Resolving deltas:  46% (28/60)Resolving deltas:  48% (29/60)Resolving deltas:  50% (30/60)Resolving deltas:  51% (31/60)Resolving deltas:  53% (32/60)Resolving deltas:  55% (33/60)Resolving deltas:  56% (34/60)Resolving deltas:  58% (35/60)Resolving deltas:  60% (36/60)Resolving deltas:  61% (37/60)Resolving deltas:  63% (38/60)Resolving deltas:  65% (39/60)Resolving deltas:  66% (40/60)Resolving deltas:  68% (41/60)Resolving deltas:  70% (42/60)Resolving deltas:  71% (43/60)Resolving deltas:  73% (44/60)Resolving deltas:  75% (45/60)Resolving deltas:  76% (46/60)Resolving deltas:  78% (47/60)Resolving deltas:  80% (48/60)Resolving deltas:  81% (49/60)Resolving deltas:  83% (50/60)Resolving deltas:  85% (51/60)Resolving deltas:  86% (52/60)Resolving deltas:  88% (53/60)Resolving deltas:  90% (54/60)Resolving deltas:  91% (55/60)Resolving deltas:  93% (56/60)Resolving deltas:  95% (57/60)Resolving deltas:  96% (58/60)Resolving deltas:  98% (59/60)Resolving deltas: 100% (60/60)Resolving deltas: 100% (60/60), done.
+From github.com:CoderWeiJ/git-auto-commit
+ * [new branch]      master     -> origin/master
+There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> master
+
+[1;31m==== AUTHENTICATING FOR org.freedesktop.timedate1.set-time ====
+[0mAuthentication is required to set the system time.
+Authenticating as: Ubuntu (ubuntu)
+Password: There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> master
+
+[1;31m==== AUTHENTICATING FOR org.freedesktop.timedate1.set-time ====
+[0mAuthentication is required to set the system time.
+Authenticating as: Ubuntu (ubuntu)
+Password: There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> master
+
+[1;31m==== AUTHENTICATING FOR org.freedesktop.timedate1.set-time ====
+[0mAuthentication is required to set the system time.
+Authenticating as: Ubuntu (ubuntu)
+Password: [0;1;31mFailed to set time: Connection timed out[0m
+polkit-agent-helper-1: pam_authenticate failed: Authentication failure
+There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> master
+
+[1;31m==== AUTHENTICATING FOR org.freedesktop.timedate1.set-time ====
+[0mAuthentication is required to set the system time.
+Authenticating as: Ubuntu (ubuntu)
+Password: [0;1;31mFailed to set time: Connection timed out[0m
+polkit-agent-helper-1: pam_authenticate failed: Authentication failure
+There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> master
+
+[1;31m==== AUTHENTICATING FOR org.freedesktop.timedate1.set-time ====
+[0mAuthentication is required to set the system time.
+Authenticating as: Ubuntu (ubuntu)
+Password: [0;1;31mFailed to set time: Connection timed out[0m
+polkit-agent-helper-1: pam_authenticate failed: Authentication failure
+There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> master
+
+[1;31m==== AUTHENTICATING FOR org.freedesktop.timedate1.set-time ====
+[0mAuthentication is required to set the system time.
+Authenticating as: Ubuntu (ubuntu)
+Password: [0;1;31mFailed to set time: Connection timed out[0m
+polkit-agent-helper-1: pam_authenticate failed: Authentication failure
+There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> master
+
+[1;31m==== AUTHENTICATING FOR org.freedesktop.timedate1.set-time ====
+[0mAuthentication is required to set the system time.
+Authenticating as: Ubuntu (ubuntu)
+Password: [0;1;31mFailed to set time: Connection timed out[0m
+polkit-agent-helper-1: pam_authenticate failed: Authentication failure
+There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> master
+
+[1;31m==== AUTHENTICATING FOR org.freedesktop.timedate1.set-time ====
+[0mAuthentication is required to set the system time.
+Authenticating as: Ubuntu (ubuntu)
+Password: [0;1;31mFailed to set time: Connection timed out[0m
+polkit-agent-helper-1: pam_authenticate failed: Authentication failure
+There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> master
+
+[1;31m==== AUTHENTICATING FOR org.freedesktop.timedate1.set-time ====
+[0mAuthentication is required to set the system time.
+Authenticating as: Ubuntu (ubuntu)
+Password: [0;1;31mFailed to set time: Connection timed out[0m
+polkit-agent-helper-1: pam_authenticate failed: Authentication failure
+There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> master
+
+[1;31m==== AUTHENTICATING FOR org.freedesktop.timedate1.set-time ====
+[0mAuthentication is required to set the system time.
+Authenticating as: Ubuntu (ubuntu)
+Password: [0;1;31mFailed to set time: Connection timed out[0m
+polkit-agent-helper-1: pam_authenticate failed: Authentication failure
+There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> master
+
+[1;31m==== AUTHENTICATING FOR org.freedesktop.timedate1.set-time ====
+[0mAuthentication is required to set the system time.
+Authenticating as: Ubuntu (ubuntu)
+Password: [0;1;31mFailed to set time: Connection timed out[0m
+polkit-agent-helper-1: pam_authenticate failed: Authentication failure
+There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> master
+
+[0;1;31mFailed to set time: Automatic time synchronization is enabled[0m
+There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> master
+
+[0;1;31mFailed to set time: Automatic time synchronization is enabled[0m
+There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> master
+
+[0;1;31mFailed to set time: Automatic time synchronization is enabled[0m
+There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> master
+
+[0;1;31mFailed to set time: Automatic time synchronization is enabled[0m
+There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> master
+
+[0;1;31mFailed to set time: Automatic time synchronization is enabled[0m
+There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> master
+
+[0;1;31mFailed to set time: Automatic time synchronization is enabled[0m
+There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> master
+
+[0;1;31mFailed to set time: Automatic time synchronization is enabled[0m
+There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> master
+
+[0;1;31mFailed to set time: Automatic time synchronization is enabled[0m
+There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> master
+
+[1;31m==== AUTHENTICATING FOR org.freedesktop.timedate1.set-time ====
+[0mAuthentication is required to set the system time.
+Authenticating as: Ubuntu (ubuntu)
+Password: 
